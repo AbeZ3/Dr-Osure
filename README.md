@@ -17,9 +17,6 @@ The algorithm powering Dr. Osure uses AI to recognize facial emotions in images.
 
 ## Running this project
 
-1. Add steps for running this project.
-2. Make sure to include any required libraries that need to be installed for your project to run.
-
 
 **Running the Project:**
 To run this project, follow these steps:
